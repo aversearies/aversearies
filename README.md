@@ -20,7 +20,7 @@
 - **Data Format**: JSON (JsonUtility)
 
 ## 主要プロジェクト (Featured Projects)
-これまで開発した、設計面を重視した主要プロジェクトです。各リンクから詳細な設計書(README)とサンプル動画をご覧いただけます。  
+これまで開発した、設計面を重視した主要プロジェクトです。各リンクから詳細な設計書(README)やサンプル動画をご覧いただけます。  
 ※権利保護および今後の展開を見据え、ソースコードは非公開(Private)としております。選考においてコード確認が必要な場合は、画面共有や期間限定のCollaborator招待等での提示が可能です。
 
 ### 1. [3DアクションRPG向け システム基盤・フレームワーク](https://github.com/aversearies/Unity-3d-RPG-Framework-Docs.git)
